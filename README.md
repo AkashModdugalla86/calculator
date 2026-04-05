@@ -1,0 +1,5 @@
+-> Built a basic calculator using HTML, CSS, and JavaScript
+-> Implemented addition, subtraction, multiplication, and division operations
+-> Used DOM manipulation to handle user input
+-> Added clear and delete functionality
+-> Applied JavaScript functions and event handling
